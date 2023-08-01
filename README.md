@@ -1,5 +1,11 @@
-# Exam #1: "CMSmall" FINAL VOTE 30
+# Exam Content Manager System - VOTE 30
 ## Student: s312192 HUGONIN ALBERTO
+
+## Run Instructions
+
+- In Client/my-app run `npm install` and `npm run dev`
+- In Server run `npm install` and `node server.js`
+
 
 ## React Client Application Routes
 
