@@ -1,6 +1,11 @@
 # Exam - Content Manager System - VOTE 30
 ## Student: s312192 HUGONIN ALBERTO
 
+## Screenshot
+
+![Screenshot](./IMG/ListaPagine.png)
+![Screenshot](./IMG/PageCreate.png)
+
 ## Run Instructions
 
 - In Client/my-app run `npm install` and `npm run dev`
@@ -72,11 +77,6 @@
 - `PageCreator` (in `PageCreator.jsx`): è il componente principale che si occupa della visualizzazione, editing e creazione della pagina. Riceve le informazioni sulla pagina dal MainRoute e le utilizza per i suoi scopi agendo in maniera diretta sulle API. Contiene ContentsManager e ContentsCreator
 - `ContentsManager` (in `ContentsManager.jsx`): è il componente che si occupa della gestione dei contenuti (modifica,creazione e ordinamento) appoggiandosi su ContentsCreator  (in `ContentsCreator.jsx`) per la gestione del singolo contenuto
 - `PagesBar` (in `PagesBar.jsx`): componente che si occupa di visualizzare le pagine come lista di contenuti, e mettendo in comunicazione il MainRoute e PageCreator permette di modificare la pagina selezionata o cancellarla direttamente
-
-## Screenshot
-
-![Screenshot](./IMG/ListaPagine.png)
-![Screenshot](./IMG/PageCreate.png)
 
 ## Users Credentials
 
