@@ -1,8 +1,6 @@
 # Exam - Content Manager System - VOTE 30
 ## Student: s312192 HUGONIN ALBERTO
 
-## Screenshot
-
 ![Screenshot](./IMG/ListaPagine.png)
 ![Screenshot](./IMG/PageCreate.png)
 
