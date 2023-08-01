@@ -1,4 +1,4 @@
-# Exam Content Manager System - VOTE 30
+# Exam - Content Manager System - VOTE 30
 ## Student: s312192 HUGONIN ALBERTO
 
 ## Run Instructions

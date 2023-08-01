@@ -1,0 +1,5 @@
+.DS_Store
+Client/my-app/node_modules
+Server/node_modules
+Client/my-app/package-lock.json
+Server/package-lock.json
